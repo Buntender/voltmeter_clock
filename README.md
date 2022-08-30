@@ -6,6 +6,10 @@ esp8266开发板、5v电压表（6C2型）、电阻、杜邦线、Micro USB延�
 
 螺丝刀 手钻 电烙铁
 
+<div align=center>
+<img src="image/README/1661796772286.png" width="60%"/>
+</div>
+
 ## 获取网络时间
 
 配网部分参考了[https://github.com/yuan910715/Esp8266_NTP_Clock_Weather](https://github.com/yuan910715/Esp8266_NTP_Clock_Weather)
@@ -78,4 +82,10 @@ $$
 
 <div align=center>
 <img src="image/README/1661656735839.png" width="40%"/>
+</div>
+
+实现效果
+
+<div align=center>
+<img src="image/README/1661797152960.png" width="60%"/>
 </div>
