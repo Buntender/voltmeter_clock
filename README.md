@@ -7,7 +7,7 @@ esp8266开发板、5v电压表（6C2型）、电阻、杜邦线、Micro USB延�
 螺丝刀 手钻 电烙铁
 
 <div align=center>
-<img src="image/README/1661796772286.png" width="60%"/>
+<img src="image/README/1661796772286.png" width="60%" alt="image"/>
 </div>
 
 ## 获取网络时间
